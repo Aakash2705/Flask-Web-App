@@ -1,0 +1,54 @@
+body, html {
+    margin: 0;
+    font-family: sans-serif;
+    background-color: #1a1a1a;
+}
+
+.heading {
+    text-align: center;
+    color: azure;
+}
+
+.update {
+    text-align: center;
+}
+
+.content {
+    margin: 0 auto;
+    width: 400px;
+}
+
+table, td, th {
+    border: 1px solid #aaa;
+    color: azure;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    color: azure;
+}
+
+th {
+    height: 30px;
+    color: azure;
+}
+
+td {
+    text-align: center;
+    padding: 5px;
+    color: azure;
+}
+
+.form {
+    margin-top: 20px;
+    color: azure;
+}
+
+.update {
+    color: azure;
+}
+
+#content {
+    width: 70%;
+}
